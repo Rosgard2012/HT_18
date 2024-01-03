@@ -1,2 +1,5 @@
 .vscode
 venv
+django_products_scraper/db.sqlite3
+.idea
+

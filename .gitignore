@@ -1,5 +1,12 @@
+__pycache__/
 .vscode
 venv
 django_products_scraper/db.sqlite3
 .idea
 
+
+venv/
+.pylintrc
+*.pyc
+
+db.sqlite3

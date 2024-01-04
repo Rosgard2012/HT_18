@@ -1,6 +1,7 @@
 # HT_18
 
 python3 -m venv venv
+source venv/bin/activate
 <!-- pip freeze > requirements.txt -->
 pip install -r requirements.txt
 
@@ -19,3 +20,11 @@ P.S. Процес скрейпінга повинен відбуватись "н
 А отриманий ID цієї таски при запуску скрейпера в сабпроцесі передати в якості параметра.
 
 https://www.sears.com/
+
+
+
+django_products_scraper
+
+app_scraper
+
+
